@@ -1,0 +1,6 @@
+20/05/2021;Viaggio;Viaggio a Roma;APPROVATA;Manager;400
+27/05/2021;Alloggio;B&B;APPROVATA;Operational Manager;500
+10/06/2021;Vitto;Affitto casa;APPROVATA;CEO;840
+05/07/2021;Altro;Spese Extra;APPROVATA;Manager;30
+01/07/2021;Altro;Bollette;RESPINTA;-;-
+20/06/2021;Viaggio;Crociera;RESPINTA;-;-

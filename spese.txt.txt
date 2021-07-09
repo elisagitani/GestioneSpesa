@@ -1,0 +1,6 @@
+2021-05-20;Viaggio;Viaggio a Roma;350
+2021-05-27;Alloggio;B&B;500
+2021-06-10;Vitto;Affitto casa;1200
+2021-07-01;Altro;Bollette;2600
+2021-07-05;Altro;Spese Extra;300
+2021-06-20;Viaggio;Crociera;3000
