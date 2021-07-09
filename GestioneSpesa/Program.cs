@@ -100,7 +100,7 @@ namespace GestioneSpesa
 
             try
             {
-                if (!Directory.Exists(@"C:\Users\elisa.gitani\Desktop\\NuovaCartella"))
+                if (!Directory.Exists(@"C:\Users\elisa.gitani\Desktop\NuovaCartella"))
                 {
                     Directory.CreateDirectory(@"C:\Users\elisa.gitani\Desktop\NuovaCartella");
                 }
