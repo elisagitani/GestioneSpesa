@@ -100,12 +100,12 @@ namespace GestioneSpesa
 
             try
             {
-                if (!Directory.Exists(@"C:\Users\elisa.gitani\Desktop\GestioneSpesa\NuovaCartella"))
+                if (!Directory.Exists(@"C:\Users\elisa.gitani\Desktop\\NuovaCartella"))
                 {
-                    Directory.CreateDirectory(@"C:\Users\elisa.gitani\Desktop\GestioneSpesa\NuovaCartella");
+                    Directory.CreateDirectory(@"C:\Users\elisa.gitani\Desktop\NuovaCartella");
                 }
 
-                StreamWriter writer = File.CreateText(@"C:\Users\elisa.gitani\Desktop\GestioneSpesa\spese_elaborate.txt");
+                StreamWriter writer = File.CreateText(@"C:\Users\elisa.gitani\Desktop\NuovaCartella\spese_elaborate.txt");
 
                 foreach(var item in spesaApprovata)
                 {
